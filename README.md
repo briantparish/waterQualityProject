@@ -1,5 +1,5 @@
 # waterQualityProject
-What effects the quality of water in phoenix and why?
+What effects the quality of water in Arizona and why?
 Where do we get our drinking water in Arizona?
 Other Ask?
 
