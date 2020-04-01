@@ -13,7 +13,8 @@ For the purpose of this project we should just focus on sources of drinkable wat
 3.) Rivers
 
 
-Since we have 3 people It might be cool for us each to analyze a specific source. 
+Since we have 4 people It might be cool for us each to analyze a specific source. 
+Maybe the 4th person can help with putting it together,cleaning data, quality control, pushes, admin master, etc
 
 Julie: Lakes
 ____:Rivers
