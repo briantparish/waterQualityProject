@@ -1,0 +1,378 @@
+"Site Number","Site Location","Cluster","Site Acronym","date","E_coli","Coliform","Coliform_flag","Mycobacterium","Mycobacterium_flag","Comments"
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2014-06-02,37,462,NA,NA,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2014-06-02,29,378,NA,NA,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2014-06-02,21,530,NA,NA,NA,"TNTC = Too Numerous to Count"
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2014-06-02,45,552,NA,NA,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2014-06-02,17,574,NA,NA,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2014-06-02,13,93,NA,NA,NA,"CONT = Contaminated"
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2014-06-02,15,556,NA,NA,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2014-06-02,35,536,NA,NA,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2014-06-02,34,520,NA,NA,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2014-06-02,16,534,NA,NA,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2014-06-02,19,340,NA,NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2014-06-02,5,56,NA,NA,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2014-06-02,54,320,NA,NA,NA,"NCDC = Not Countable Due to Contamination"
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2014-07-07,24,304,NA,NA,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2014-07-07,18,260,NA,NA,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2014-07-07,18,496,NA,NA,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2014-07-07,48,240,NA,NA,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2014-07-07,16,330,NA,NA,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2014-07-07,50,548,NA,NA,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2014-07-07,34,462,NA,NA,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2014-07-07,36,474,NA,NA,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2014-07-07,52,440,NA,NA,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2014-07-07,20,390,NA,NA,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2014-07-07,158,548,NA,NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2014-07-07,0,23,NA,NA,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2014-07-07,28,456,NA,NA,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2014-08-05,20,390,NA,NA,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2014-08-05,18,444,NA,NA,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2014-08-05,14,542,NA,NA,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2014-08-05,4,444,NA,NA,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2014-08-05,32,622,NA,NA,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2014-08-05,2,548,NA,NA,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2014-08-05,10,606,NA,NA,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2014-08-05,10,462,NA,NA,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2014-08-05,174,750,NA,NA,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2014-08-05,28,522,NA,NA,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2014-08-05,436,628,NA,NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2014-08-05,10,436,NA,NA,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2014-08-05,24,462,NA,NA,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2014-09-08,92,NA,NA,2,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2014-09-08,46,NA,NA,3,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2014-09-08,1080,NA,NA,NA,"NCDC",NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2014-09-08,104,NA,NA,9,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2014-09-08,2580,NA,NA,NA,"NCDC",NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2014-09-08,6,NA,NA,2,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2014-09-08,1150,NA,NA,NA,"NCDC",NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2014-09-08,990,NA,NA,NA,"NCDC",NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2014-09-08,432,NA,NA,12,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2014-09-08,260,NA,NA,NA,"NCDC",NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2014-09-08,2240,NA,NA,NA,"NCDC",NA
+"R3","Waddell Canal","cap","waddell canal",2014-09-08,38,NA,NA,0,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2014-09-08,1360,NA,NA,NA,"NCDC",NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2014-10-06,30,444,NA,NA,"NCDC",NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2014-10-06,21,470,NA,NA,"NCDC",NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2014-10-06,120,NA,"TNTC",NA,"NCDC",NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2014-10-06,5,NA,"TNTC",NA,"NCDC",NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2014-10-06,60,NA,"TNTC",NA,"NCDC",NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2014-10-06,60,364,NA,9,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2014-10-06,16,510,NA,11,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2014-10-06,72,NA,"TNTC",NA,"NCDC",NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2014-10-06,82,NA,"TNTC",NA,"NCDC",NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2014-10-06,50,NA,"TNTC",NA,"NCDC",NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2014-10-06,114,NA,"TNTC",NA,"NCDC",NA
+"R3","Waddell Canal","cap","waddell canal",2014-10-06,4,184,NA,1,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2014-10-06,86,NA,"TNTC",NA,"NCDC",NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2014-11-03,29,672,NA,68,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2014-11-03,20,1100,NA,76,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2014-11-03,53,NA,"TNTC",64,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2014-11-03,46,776,NA,37,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2014-11-03,45,NA,"TNTC",NA,"NCDC",NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2014-11-03,19,676,NA,5,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2014-11-03,10,NA,"TNTC",NA,"NCDC",NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2014-11-03,29,NA,"TNTC",NA,"NCDC",NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2014-11-03,40,NA,"TNTC",76,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2014-11-03,23,NA,"TNTC",NA,"NCDC",NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2014-11-03,118,NA,"TNTC",NA,"NCDC",NA
+"R3","Waddell Canal","cap","waddell canal",2014-11-03,18,NA,"TNTC",9,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2014-11-03,50,NA,"TNTC",33,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2014-12-01,3,562,NA,104,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2014-12-01,NA,NA,NA,104,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2014-12-01,20,580,NA,NA,"TNTC",NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2014-12-01,1,254,NA,3,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2014-12-01,7,NA,"TNTC",120,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2014-12-01,18,NA,"TNTC",16,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2014-12-01,18,822,NA,36,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2014-12-01,20,NA,"TNTC",52,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2014-12-01,17,NA,"TNTC",88,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2014-12-01,5,NA,"TNTC",96,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2014-12-01,13,NA,"TNTC",NA,"TNTC",NA
+"R3","Waddell Canal","cap","waddell canal",2014-12-01,4,634,NA,47,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2014-12-01,3,NA,"TNTC",42,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2015-01-05,1,418,NA,36,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2015-01-05,NA,NA,NA,NA,"TNTC","Contamination"
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2015-01-05,NA,NA,NA,NA,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2015-01-05,3,418,NA,14,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2015-01-05,23,546,NA,168,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2015-01-05,7,NA,"TNTC",88,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2015-01-05,NA,NA,NA,NA,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2015-01-05,NA,NA,NA,NA,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2015-01-05,16,514,NA,NA,"TNTC","Contamination"
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2015-01-05,60,478,NA,92,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2015-01-05,16,NA,"TNTC",220,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2015-01-05,2,388,NA,16,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2015-01-05,NA,NA,NA,NA,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2015-02-02,60,928,NA,156,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2015-02-02,44,792,NA,228,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2015-02-02,60,NA,"TNTC",NA,"TNTC",NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2015-02-02,206,NA,"TNTC",NA,"TNTC",NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2015-02-02,14,684,NA,80,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2015-02-02,10,NA,"TNTC",84,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2015-02-02,3,NA,"TNTC",68,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2015-02-02,28,NA,"TNTC",27,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2015-02-02,82,612,NA,64,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2015-02-02,NA,NA,NA,NA,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2015-02-02,72,NA,"TNTC",NA,"TNTC",NA
+"R3","Waddell Canal","cap","waddell canal",2015-02-02,2,404,NA,21,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2015-02-02,114,564,NA,44,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2015-03-09,14,528,NA,16,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2015-03-09,29,704,NA,NA,"TNTC",NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2015-03-09,28,628,NA,19,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2015-03-09,28,616,NA,22,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2015-03-09,6,NA,"TNTC",102,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2015-03-09,12,596,NA,15,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2015-03-09,24,500,NA,35,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2015-03-09,48,468,NA,34,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2015-03-09,36,700,NA,21,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2015-03-09,NA,NA,NA,NA,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2015-03-09,32,808,NA,NA,"TNTC",NA
+"R3","Waddell Canal","cap","waddell canal",2015-03-09,12,260,NA,4,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2015-03-09,132,608,NA,NA,"TNTC",NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2015-04-06,16,636,NA,46,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2015-04-06,24,776,NA,182,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2015-04-06,32,820,NA,116,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2015-04-06,48,784,NA,34,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2015-04-06,32,NA,"TNTC",94,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2015-04-06,24,NA,"TNTC",NA,"TNTC",NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2015-04-06,16,712,NA,46,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2015-04-06,28,844,NA,192,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2015-04-06,96,NA,"TNTC",4,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2015-04-06,12,660,NA,NA,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2015-04-06,256,NA,"TNTC",NA,"TNTC",NA
+"R3","Waddell Canal","cap","waddell canal",2015-04-06,0,148,NA,NA,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2015-04-06,52,728,NA,3,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2015-05-04,48,NA,"TNTC",NA,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2015-05-04,40,NA,"TNTC",NA,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2015-05-04,40,NA,"TNTC",NA,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2015-05-04,176,1016,NA,NA,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2015-05-04,36,NA,"TNTC",NA,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2015-05-04,28,936,NA,NA,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2015-05-04,24,960,NA,NA,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2015-05-04,48,NA,"TNTC",NA,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2015-05-04,88,768,NA,NA,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2015-05-04,76,NA,"TNTC",NA,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2015-05-04,380,NA,"TNTC",NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2015-05-04,2,344,NA,NA,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2015-05-04,180,NA,"TNTC",NA,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2015-06-01,32,820,NA,12,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2015-06-01,24,NA,"TNTC",4,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2015-06-01,8,756,NA,36,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2015-06-01,76,792,NA,19,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2015-06-01,24,744,NA,1,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2015-06-01,9,652,NA,2,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2015-06-01,22,764,NA,7,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2015-06-01,11,708,NA,24,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2015-06-01,44,600,NA,37,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2015-06-01,32,560,NA,17,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2015-06-01,48,828,NA,NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2015-06-01,4,640,NA,3,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2015-06-01,24,780,NA,5,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2015-07-06,32,768,NA,19,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2015-07-06,28,NA,"TNTC",2,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2015-07-06,13,744,NA,12,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2015-07-06,56,872,NA,4,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2015-07-06,44,NA,"TNTC",8,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2015-07-06,NA,NA,NA,NA,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2015-07-06,13,795,NA,13,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2015-07-06,11,756,NA,28,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2015-07-06,112,808,NA,9,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2015-07-06,16,NA,"TNTC",1,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2015-07-06,NA,NA,NA,NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2015-07-06,1,404,NA,18,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2015-07-06,16,712,NA,25,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2015-08-03,36,NA,"TNTC",2,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2015-08-03,20,504,NA,3,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2015-08-03,28,904,NA,NA,"Not detected",NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2015-08-03,7,692,NA,7,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2015-08-03,28,844,NA,NA,"Not detected",NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2015-08-03,36,808,NA,3,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2015-08-03,20,840,NA,NA,"Not detected",NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2015-08-03,12,NA,"TNTC",NA,"Not detected",NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2015-08-03,52,784,NA,6,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2015-08-03,8,912,NA,4,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2015-08-03,132,NA,"TNTC",1,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2015-08-03,16,880,NA,9,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2015-08-03,16,776,NA,8,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2015-08-31,12,988,NA,NA,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2015-08-31,11,NA,"TNTC",NA,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2015-08-31,9,NA,"TNTC",NA,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2015-08-31,12,NA,"TNTC",NA,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2015-08-31,NA,NA,NA,NA,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2015-08-31,4,784,NA,NA,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2015-08-31,24,744,NA,NA,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2015-08-31,16,848,NA,NA,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2015-08-31,28,NA,"TNTC",NA,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2015-08-31,16,868,NA,NA,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2015-08-31,53,NA,"TNTC",NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2015-08-31,1,572,NA,NA,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2015-08-31,24,964,NA,NA,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2015-10-05,16,1144,NA,3,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2015-10-05,28,NA,"TNTC",7,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2015-10-05,8,NA,"TNTC",4,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2015-10-05,24,1120,NA,4,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2015-10-05,12,720,NA,4,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2015-10-05,4,NA,"TNTC",2,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2015-10-05,14,NA,"TNTC",5,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2015-10-05,20,1184,NA,NA,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2015-10-05,24,880,NA,6,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2015-10-05,14,784,NA,NA,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2015-10-05,22,1116,NA,NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2015-10-05,NA,NA,NA,NA,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2015-10-05,NA,NA,NA,NA,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2015-11-02,11,988,NA,0,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2015-11-02,14,732,NA,3,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2015-11-02,9,960,NA,22,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2015-11-02,14,936,NA,9,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2015-11-02,NA,NA,NA,NA,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2015-11-02,4,1116,NA,10,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2015-11-02,2,984,NA,0,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2015-11-02,25,NA,"TNTC",11,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2015-11-02,36,720,NA,NA,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2015-11-02,16,772,NA,NA,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2015-11-02,116,NA,"TNTC",NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2015-11-02,NA,NA,NA,NA,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2015-11-02,76,NA,"TNTC",1,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2015-12-07,NA,NA,NA,NA,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2015-12-07,NA,NA,NA,NA,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2015-12-07,NA,NA,NA,NA,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2015-12-07,8,608,NA,2,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2015-12-07,5,540,NA,NA,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2015-12-07,NA,NA,NA,NA,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2015-12-07,NA,NA,NA,NA,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2015-12-07,NA,NA,NA,NA,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2015-12-07,13,680,NA,NA,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2015-12-07,10,748,NA,18,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2015-12-07,32,NA,"TNTC",NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2015-12-07,5,712,NA,0,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2015-12-07,NA,NA,NA,NA,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2016-01-04,9,380,NA,NA,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2016-01-04,19,496,NA,NA,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2016-01-04,5,252,NA,NA,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2016-01-04,16,300,NA,NA,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2016-01-04,52,428,NA,NA,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2016-01-04,89,256,NA,NA,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2016-01-04,3,580,NA,NA,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2016-01-04,24,172,NA,NA,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2016-01-04,100,296,NA,NA,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2016-01-04,6,380,NA,NA,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2016-01-04,37,232,NA,NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2016-01-04,NA,NA,NA,NA,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2016-01-04,NA,NA,NA,NA,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2016-02-01,9,256,NA,3,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2016-02-01,8,296,NA,3,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2016-02-01,2,168,NA,1,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2016-02-01,7,436,NA,5,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2016-02-01,13,368,NA,4,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2016-02-01,NA,NA,NA,NA,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2016-02-01,NA,NA,NA,NA,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2016-02-01,24,304,NA,NA,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2016-02-01,24,184,NA,5,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2016-02-01,6,452,NA,0,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2016-02-01,70,152,NA,1,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2016-02-01,1,180,NA,0,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2016-02-01,22,140,NA,NA,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2016-03-07,16,648,NA,0,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2016-03-07,20,664,NA,5,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2016-03-07,9,388,NA,17,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2016-03-07,13,656,NA,25,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2016-03-07,6,688,NA,3,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2016-03-07,6,980,NA,0,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2016-03-07,8,412,NA,1,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2016-03-07,28,684,NA,28,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2016-03-07,72,544,NA,19,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2016-03-07,23,624,NA,4,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2016-03-07,22,648,NA,14,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2016-03-07,2,476,NA,0,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2016-03-07,NA,NA,NA,NA,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2016-04-04,21,868,NA,29,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2016-04-04,28,864,NA,24,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2016-04-04,11,928,NA,41,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2016-04-04,27,928,NA,4,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2016-04-04,2,732,NA,4,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2016-04-04,1,2132,NA,12,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2016-04-04,18,1324,NA,5,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2016-04-04,13,1220,NA,14,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2016-04-04,15,1288,NA,5,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2016-04-04,10,852,NA,6,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2016-04-04,35,700,NA,NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2016-04-04,2,356,NA,4,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2016-04-04,22,1040,NA,NA,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2016-05-02,42,692,NA,2,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2016-05-02,27,576,NA,2,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2016-05-02,7,1868,NA,6,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2016-05-02,40,700,NA,5,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2016-05-02,6,852,NA,3,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2016-05-02,9,448,NA,0,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2016-05-02,6,784,NA,10,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2016-05-02,6,636,NA,7,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2016-05-02,44,508,NA,1,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2016-05-02,29,684,NA,4,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2016-05-02,840,308,NA,30,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2016-05-02,6,1360,NA,0,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2016-05-02,6,792,NA,24,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2016-06-06,8,1528,NA,NA,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2016-06-06,10,1776,NA,NA,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2016-06-06,5,2008,NA,NA,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2016-06-06,15,1748,NA,NA,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2016-06-06,2,648,NA,NA,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2016-06-06,17,1300,NA,NA,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2016-06-06,6,1704,NA,NA,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2016-06-06,17,1684,NA,NA,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2016-06-06,91,1100,NA,NA,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2016-06-06,15,1340,NA,NA,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2016-06-06,1,1312,NA,NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2016-06-06,0,660,NA,NA,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2016-06-06,10,1936,NA,NA,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2016-07-11,NA,NA,NA,NA,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2016-07-11,NA,NA,NA,NA,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2016-07-11,NA,NA,NA,NA,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2016-07-11,NA,NA,NA,NA,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2016-07-11,NA,NA,NA,NA,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2016-07-11,NA,NA,NA,NA,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2016-07-11,NA,NA,NA,NA,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2016-07-11,NA,NA,NA,NA,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2016-07-11,NA,NA,NA,NA,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2016-07-11,NA,NA,NA,NA,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2016-07-11,NA,NA,NA,NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2016-07-11,NA,NA,NA,NA,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2016-07-11,NA,NA,NA,NA,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2016-08-01,NA,NA,NA,NA,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2016-08-01,NA,NA,NA,NA,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2016-08-01,NA,NA,NA,NA,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2016-08-01,NA,NA,NA,NA,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2016-08-01,NA,NA,NA,NA,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2016-08-01,NA,NA,NA,NA,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2016-08-01,NA,NA,NA,NA,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2016-08-01,NA,NA,NA,NA,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2016-08-01,NA,NA,NA,NA,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2016-08-01,NA,NA,NA,NA,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2016-08-01,NA,NA,NA,NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2016-08-01,NA,NA,NA,NA,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2016-08-01,NA,NA,NA,NA,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2016-09-12,44,1072,NA,4,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2016-09-12,34,936,NA,4,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2016-09-12,13,1728,NA,1,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2016-09-12,17,1048,NA,2,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2016-09-12,11,1184,NA,9,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2016-09-12,23,2112,NA,0,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2016-09-12,18,1832,NA,15,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2016-09-12,31,1832,NA,1,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2016-09-12,33,928,NA,1,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2016-09-12,6,1168,NA,2,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2016-09-12,92,1304,NA,NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2016-09-12,0,440,NA,0,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2016-09-12,28,832,NA,0,NA,NA
+"HOC","Head of the Consolidated Canal","srp","Head of the Consolidated Canal",2016-10-03,38,760,NA,1,NA,NA
+"HTC","Head of the Tempe Canal","tempe","head of tempe canal",2016-10-03,34,968,NA,0,NA,NA
+"Hwy 87","AZ Canal at Highway 87","srp","az canal @ hwy 87",2016-10-03,11,1136,NA,2,NA,NA
+"MOC","Middle of the Consolidated Canal","srp","Middle of the Consolidated Canal",2016-10-03,7,1144,NA,1,NA,NA
+"Pima","AZ Canal at Pima Rd.","srp","az canal @ pima",2016-10-03,0,1328,NA,3,NA,NA
+"R11","CAP Canal at Cross-connect","cap","cap @ x con",2016-10-03,16,752,NA,2,NA,NA
+"R12","AZ Canal above CAP Cross-connect","srp","az canal inflow",2016-10-03,22,984,NA,4,NA,NA
+"R13","AZ Canal below CAP Cross-connect","srp","az canal blw cap",2016-10-03,33,888,NA,3,NA,NA
+"R21","AZ Canal at Central Av.","srp","az canal @ central ave.",2016-10-03,43,922,NA,2,NA,NA
+"R22","AZ Canal - 56th St. (Alma School Road)","srp","az canal @ 56th st.",2016-10-03,10,1200,NA,2,NA,NA
+"R25","verde river at beeline highway","verde","verde @ beeline",2016-10-03,28,1168,NA,NA,NA,NA
+"R3","Waddell Canal","cap","waddell canal",2016-10-03,8,1304,NA,2,NA,NA
+"SOCA","South Canal below CAP Cross-conect","srp","South canal below CAP",2016-10-03,48,1176,NA,1,NA,NA
